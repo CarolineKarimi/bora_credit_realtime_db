@@ -1,0 +1,21 @@
+Source,Answer,Cnt,Value,Aggregation,Question,Y_axis
+Ke,Female,550714,0.5,By gender,Respondent gender.,% of respondents
+Ke,Male,549266,0.5,By gender,Respondent gender.,% of respondents
+Ke,Divorced,367215,0.33,By marital status,Respondent marital status.,% of respondents
+Ke,Married,365799,0.33,By marital status,Respondent marital status.,% of respondents
+Ke,Single,366966,0.33,By marital status,Respondent marital status.,% of respondents
+Ke,Has children,550374,0.5,By children status,Do you have children?,% of respondents
+Ke,No children,549606,0.5,By children status,Do you have children?,% of respondents
+Ke,18-24,274570,0.25,By age,Respondent age.,% of respondents
+Ke,25-29,275361,0.25,By age,Respondent age.,% of respondents
+Ke,30-34,274813,0.25,By age,Respondent age.,% of respondents
+Ke,34+,275236,0.25,By age,Respondent age.,% of respondents
+Ke,2 yr technical,183105,0.17,By higest education level,Respondent highest education level.,% of respondents
+Ke,Bachelor degree,183647,0.17,By higest education level,Respondent highest education level.,% of respondents
+Ke,Doctorate,183091,0.17,By higest education level,Respondent highest education level.,% of respondents
+Ke,High school,182978,0.17,By higest education level,Respondent highest education level.,% of respondents
+Ke,Masters degree,183572,0.17,By higest education level,Respondent highest education level.,% of respondents
+Ke,Primary,183587,0.17,By higest education level,Respondent highest education level.,% of respondents
+Ke,Currently employed,367241,0.33,By current employment status,Respondent current employment status.,% of respondents
+Ke,Self employed,366218,0.33,By current employment status,Respondent current employment status.,% of respondents
+Ke,Unemployed,366521,0.33,By current employment status,Respondent current employment status.,% of respondents
