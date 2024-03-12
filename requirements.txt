@@ -1,0 +1,7 @@
+matplotlib==3.2.1
+streamlit==1.23.1
+pandas==1.0.4
+numpy==1.21.0
+plotly==5.1.0
+plotly_express==0.4.0
+pyspark
