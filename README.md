@@ -8,7 +8,7 @@ The Bora Credit Real-Time Dashboard is designed to analyze and visualize custome
 To set up and deploy the dashboard locally or on a server, follow these steps:
 
 * Clone the repository to your local machine - git clone
-* Navigate to the project directory:
-* Install the required dependencies using pip:
-* Run the dashboard application:
+* Navigate to the project directory.
+* Install the required dependencies using pip.
+* Run the dashboard application.
 * Access the dashboard in your web browser at http://localhost:8005.
